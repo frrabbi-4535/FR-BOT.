@@ -1,0 +1,10 @@
+# FR BOT
+
+Owner: FR RABBI  
+Number: 01761554035  
+
+## Run
+npm install  
+npm start  
+
+Scan QR and your bot is ready.
